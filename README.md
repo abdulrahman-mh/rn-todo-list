@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-1<img alt="to-do list" src="images/Screenshot.png" style="display: block; margin: 0 auto;" />
+<img alt="to-do list" src="images/Screenshot.png" style="display: block; margin: 0 auto;" />
 
 </div>
 
