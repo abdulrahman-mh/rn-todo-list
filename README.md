@@ -1,8 +1,8 @@
-# TO-DO List -- React-Native
+# TODO List - React Native
 
 <div align='center'>
 
-<img alt="to-do list" src="images/Screenshot.png" style="display: block; margin: 0 auto;" />
+1<img alt="to-do list" src="images/Screenshot.png" style="display: block; margin: 0 auto;" />
 
 </div>
 
